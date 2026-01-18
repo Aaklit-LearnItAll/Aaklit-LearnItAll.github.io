@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I will try to keep this a structured learning tool, adding notebooks you can browse through and learn with
+No promises about how "clean" all of this will be! 
